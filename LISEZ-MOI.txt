@@ -1,0 +1,3 @@
+Dépose ta photo ici et nomme-la exactement : photo.jpg
+(format carré ou portrait, visage centré, 800 x 800 px minimum, moins de 300 Ko si possible).
+Tant que le fichier n'existe pas, le motif "Pédagogie x IA" s'affiche à sa place.
